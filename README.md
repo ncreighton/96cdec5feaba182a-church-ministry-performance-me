@@ -1,0 +1,2 @@
+# 96cdec5feaba182a-church-ministry-performance-me
+Built for church ministry professionals who are tired of building the same data integration from scratch for every project.  SDKs and quickstart guides for Python, JavaScript, PHP, and cURL. RESTful JSON API with comprehensive documentation and code examples.  ## What's Included  - Church Ministry Performance Metrics — fully configured and ready to
